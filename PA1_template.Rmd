@@ -2,7 +2,9 @@
 title: "Activity Monitoring Data Analysis"
 author: "Rafid Sadman Eesha"
 date: "6/1/2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 The following analysis have been done on the "Activity Monitoring" Dataset. 
 [Download The dataset from here](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip)
